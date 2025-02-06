@@ -8,6 +8,7 @@ A simple REST API for managing tasks using Express.js.
 2. Install dependencies:
 ```bash
 npm install
+node app.js
 ```
 
 # API Documentation
